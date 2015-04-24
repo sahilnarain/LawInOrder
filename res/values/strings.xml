@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Law In Order</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="splashContentDesc">Splash screen image</string>
+    <string name="app_title">LAW IN ORDER</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">LOG IN</string>
+    <string name="signup">SIGN UP</string>
+    <string name="title_activity_sign_up">SignUp</string>
+    <string name="fullName">Full Name</string>
+    <string name="company">Company</string>
+    <string name="phoneNumber">Phone Number</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_upcoming">Upcoming</string>
+
+</resources>
